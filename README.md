@@ -83,7 +83,7 @@ This will generate a PDF file `main.pdf`.
 
 ## Overleaf
 
-Há uma versão do projeto no overleaf, [clique aqui para acesssar](https://www.overleaf.com/read/qzbkthprxgmt#131a37).
+There is a version of the project on overleaf, [click here to access](https://www.overleaf.com/read/qzbkthprxgmt#131a37).
 
 ## Dependencies
 
